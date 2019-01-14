@@ -40,7 +40,7 @@
     "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "http://bsergiu98.github.io",
+    "siteUrl": "http://pslanyok.github.io",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
